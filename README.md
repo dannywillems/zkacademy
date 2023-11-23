@@ -8,6 +8,8 @@ fields to proof systems and recursion techniques. It would also cover
 cryptographic primitives like AO hash functions, standard hash functions,
 lookup techniques, folding schemes, etc.
 
+The notebook would be using [py-keum](https://github.com/dannywillems/py-keum/).
+
 NB: I might not have time to continue this project. If you think it has a huge
 community value, please let me know, ping me and motivate me to continue. It
 would be a pleasure to work on it.
