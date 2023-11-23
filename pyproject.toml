@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "learn-zk"
+version = "0.1.0"
+description = "Learn ZK with Jupyter"
+authors = ["Danny Willems <danny@badass.be>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+jupyterlab = "*"
+bn254 = "*"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
