@@ -1,6 +1,8 @@
-## Learn ZK with Python
+## zkacademy
 
-Jupyter notebook implementation different zero-knowledge proof-systems and techniques in Python.
+Jupyter notebook implementation different zero-knowledge proof-systems and
+techniques in Python.
+
 The goal of this project is to have an interactive environment where people
 interested in zero-knowledge proof technologies can learn interactively.
 The whole notebook would be made using custom implementations, from finite
